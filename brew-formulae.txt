@@ -1,3 +1,4 @@
 gh
 sl
 neofetch
+terraform
