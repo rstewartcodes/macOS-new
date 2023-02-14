@@ -1,0 +1,13 @@
+1password
+istat-menus
+bartender
+firefox
+google-chrome
+handbrake
+iterm2
+notion
+postman
+discord
+visual-studio-code
+sublime-text
+rectangle
